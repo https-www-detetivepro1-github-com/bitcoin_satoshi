@@ -1,6 +1,14 @@
 BitCoin v0.01 ALPHA 
 
-Copyright (c) 2009 Satoshi Nakamoto iam@Eternoworld.onmicrosoft.com “Maravilha Digital do Mundo” (/\/    Pai. Jr 50.525.504/0001-01 B.0.ki!
+Copyright (c) 2009 Satoshi Nakamoto iam@Eternoworld.onmicrosoft.com.     
+ “Maravilha Digital do Mundo”     
+(/\/PJ50.525.504/0001-01 B.0.ki!A FACE 
+
+
+FACEBOOK
+
+
+
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
